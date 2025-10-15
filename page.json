@@ -1,0 +1,147 @@
+{
+  "brand": {
+    "name": "DentalTech Pro",
+    "accent": "#2D9CDB"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Expert Dental Tech Services for Your Practice",
+      "subheadline": "Reliable, precise, and custom dental solutions to elevate your patient care. Partner with a skilled freelance dental technician today.",
+      "primaryCta": {
+        "label": "Request a Consultation",
+        "href": "/contact"
+      },
+      "image": {
+        "kind": "url",
+        "name": "Dental Technician at Work",
+        "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Custom Dental Solutions",
+          "desc": "Offer tailored dental prosthetics, crowns, and bridges to meet each client's unique needs."
+        },
+        {
+          "title": "Cutting-Edge Technology",
+          "desc": "Utilize the latest CAD/CAM systems and 3D printing for precise, high-quality dental restorations."
+        },
+        {
+          "title": "Fast Turnaround Times",
+          "desc": "Deliver reliable and efficient dental lab services with quick turnaround to keep your clients satisfied."
+        },
+        {
+          "title": "Collaboration with Dentists",
+          "desc": "Work closely with dental professionals to ensure optimal fit, function, and aesthetics for every case."
+        },
+        {
+          "title": "Remote Consultations",
+          "desc": "Provide virtual consultations and case discussions for convenience and accessibility."
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Dr. Emily Carter",
+          "quote": "Working with this dental tech was seamless and efficient. My patients noticed the difference immediately!"
+        },
+        {
+          "name": "Dr. James Lee",
+          "quote": "Reliable, skilled, and always delivers on time. Highly recommended for any dental practice."
+        },
+        {
+          "name": "Dr. Priya Singh",
+          "quote": "Exceptional craftsmanship and attention to detail. My go-to dental technician for all my cases."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$99",
+          "period": "per month",
+          "features": [
+            "Personal website setup",
+            "Portfolio gallery",
+            "Contact form",
+            "Mobile responsive design"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$199",
+          "period": "per month",
+          "features": [
+            "Everything in Basic",
+            "Online appointment booking",
+            "SEO optimization",
+            "Custom branding"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$299",
+          "period": "per month",
+          "features": [
+            "Everything in Pro",
+            "Blog integration",
+            "Priority support",
+            "Monthly website updates"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What dental technology services do you offer?",
+          "a": "I provide a range of dental technology services including crown and bridge work, dentures, orthodontic appliances, and digital dental design."
+        },
+        {
+          "q": "How do I request your services?",
+          "a": "You can contact me through the website’s contact form or by email to discuss your project and receive a quote."
+        },
+        {
+          "q": "Do you work with both dental clinics and individual dentists?",
+          "a": "Yes, I collaborate with dental clinics, individual dentists, and other dental professionals."
+        },
+        {
+          "q": "What is your turnaround time for dental appliances?",
+          "a": "Turnaround times vary by project, but most cases are completed within 5-7 business days."
+        },
+        {
+          "q": "Can you provide digital dental solutions?",
+          "a": "Absolutely! I offer digital design and 3D printing services for modern dental practices."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Ready to elevate your dental practice with expert tech support?",
+      "cta": {
+        "label": "Get Started Today",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Start Your Dental Tech Practice Today",
+      "placeholder": "Enter your email to get started",
+      "button": "Get Started"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 Your Dental Tech Practice. All rights reserved. | Contact: info@yourdomain.com"
+    }
+  ]
+}
